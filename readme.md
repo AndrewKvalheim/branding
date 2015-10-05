@@ -6,7 +6,7 @@
 
 Used for 6-foot tables at [LinuxFest Northwest][] and [SeaGL][].
 
-[<img alt='banner_50x24in.svg' src='https://cdn.rawgit.com/gslug/branding/a2017907c3a585d301db900ebfa1445eba553631/banner_50x24in.svg' width='400'>](banner_50x24in.svg)
+[<img alt='banner_50x24in.svg' src='https://cdn.rawgit.com/gslug/branding/32673a4838e616ffc3de12a215f1d6096e5e55e9/banner_50x24in.svg' width='400'>](banner_50x24in.svg)
 
 ### 38.125 × 33 inch
 
